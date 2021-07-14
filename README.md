@@ -15,7 +15,7 @@ I'm mostly known from the Hacks & Bots scene of the MMORPG NosTale.
 
 
 <img height="64" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/2000px-ISO_C%2B%2B_Logo.svg.png"> &nbsp;
-<img height="64" alt="C#" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+<img height="64" alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/C-Sharp.png/1200px-C-Sharp.png">
 <img height="44" alt="Go" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" style="margin-bottom: 10px">
 
 
