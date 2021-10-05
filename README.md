@@ -22,18 +22,17 @@ I'm mostly known from the Hacks & Bots scene of the MMORPG NosTale.
 
 ## Frameworks/Tools:
 
-<img height="64" alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2000px-Icons8_flat_linux.svg.png"> &nbsp;
-<img height="64" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/768px-Git_icon.svg.png"> &nbsp;
 <img height="64" alt="Docker" src="https://cdn.iconscout.com/icon/free/png-512/docker-11-1175228.png"> &nbsp;
 <img height="64" alt="Kubernetes" src="https://kubernetes.io/images/favicon.png"> &nbsp;
 <img height="64" alt="Helm" src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png">
-<img height="70" alt="CI/CD" src="https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png" style="margin-bottom: -6px"> &nbsp;
 <img height="64" alt="Ansible" src="https://images.squarespace-cdn.com/content/v1/5caf4259c46f6d28739b09b0/1558616309157-QJE3179D6V6WYBNUR301/ke17ZwdGBToddI8pDm48kKXbTL5U8xV7KgHrzqU-XYBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHYShtqp9p317BEUKra4SA7joXG0jEu6ntXNgZ58T98lRur-lC0WofN0YB1wFg-ZW0/ansible_circleA_red.png"> &nbsp;
 <img height="64" alt="Terraform" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png">
+<img height="70" alt="CI/CD" src="https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png" style="margin-bottom: -6px"> &nbsp;
+<img height="64" alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2000px-Icons8_flat_linux.svg.png"> &nbsp;
+<img height="64" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/768px-Git_icon.svg.png"> &nbsp;
 
 
 ## My Projects
-
 
 ### [Olympus](https://olympusgg.com/) (former [NosWings](https://noswings.com/)) - Head of Client Modding
 
