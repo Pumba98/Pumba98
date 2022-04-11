@@ -42,7 +42,7 @@ We are a team of ~15 people, developing our own Game server project, from the ga
 
 I work on all sides of the project, but my main focus is advanced Client Modding, Resource Modding & DevOps.
 
-<a href="https://discord.gg/RUk4r4T"><img alt="Olympus Discord" src="https://discordapp.com/api/guilds/468831707877867530/widget.png?style=banner2"></a>
+<a href="https://discord.gg/qKKppYmrrJ"><img alt="Olympus Discord" src="https://discordapp.com/api/guilds/957329923062775828/widget.png?style=banner2"></a>
 
 ### [Kubernetes GitOps Cluster (k3s with flux)](https://github.com/Pumba98/k3s-flux-cluster)
 
