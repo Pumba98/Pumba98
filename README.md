@@ -34,7 +34,7 @@ I'm mostly known from the Hacks & Bots scene of the MMORPG NosTale, but at the m
 
 ## My Projects
 
-### [Olympus](https://www.elitepvpers.com/forum/nostale-pserver-advertising/4966630-international-olympus-ascend-opening-20-11-2021-a.html) (former [NosWings](https://noswings.com/)) - Head of Client Modding
+### [Olympus](https://wiki.olympusgg.com) (former NosWings) - Head of Client Modding
 
 A MMORPG Private Server of the game NosTale, written **from scratch** with a team of passionate IT students.
 
