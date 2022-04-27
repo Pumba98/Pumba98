@@ -27,7 +27,7 @@ I'm mostly known from the Hacks & Bots scene of the MMORPG NosTale, but at the m
 
 ## CI/CD Experience:
 
-<img height="45" alt="GitLab" src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png"> &nbsp;
+<img height="45" alt="GitLab" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png"> &nbsp;
 <img height="45" alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"> &nbsp;
 <img height="45" alt="Azure" src="https://avatars2.githubusercontent.com/ml/1303?s=140&v=4"> &nbsp;
 <img height="45" alt="DroneCi" src="https://www.trion.de/news/2021/01/28/drone-pipeline-global-variable/drone-logo.png"> &nbsp;
