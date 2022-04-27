@@ -7,7 +7,7 @@ I'm mostly known from the Hacks & Bots scene of the MMORPG NosTale, but at the m
 
 <a href="https://github.com/Pumba98"><img src="https://img.shields.io/badge/-@Pumba98-%23181717?style=flat-square&logo=github" height="30"></a> &nbsp; &nbsp;
 <a href="https://gitlab.com/Pumba98"><img src="https://img.shields.io/badge/-@Pumba98-orange?style=flat-square&logo=gitlab" height="30"></a> &nbsp; &nbsp;
-<a href="https://discordapp.com/users/276439816906866689/"><img src="https://img.shields.io/badge/-Pumba98%236817-%232c2f33?style=flat-square&logo=discord" height="30"></a>
+<a href="https://discordapp.com/users/276439816906866689/"><img src="https://img.shields.io/badge/-Pumba98%230001-%232c2f33?style=flat-square&logo=discord" height="30"></a>
 
 ## Languages:
 
