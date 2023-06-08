@@ -34,7 +34,7 @@ I'm mostly known from the Hacks & Bots scene of the MMORPG NosTale, but at the m
 
 ## My Projects
 
-### [Olympus](https://wiki.olympusgg.com) (former NosWings) - Head of Client Modding
+### [Olympus](https://olympusgg.com) (former NosWings) - Admin
 
 A MMORPG Private Server of the game NosTale, written **from scratch** with a team of passionate IT students.
 
@@ -42,9 +42,9 @@ We are a team of ~15 people, developing our own Game server project, from the ga
 
 I work on all sides of the project, but my main focus is advanced Client Modding, Resource Modding & DevOps.
 
-<a href="https://discord.gg/RUk4r4T"><img alt="Olympus Discord" src="https://discordapp.com/api/guilds/468831707877867530/widget.png?style=banner2"></a>
+<a href="https://discord.olympusgg.com"><img alt="Olympus Discord" src="https://discordapp.com/api/guilds/468831707877867530/widget.png?style=banner2"></a>
 
-### [Kubernetes GitOps Cluster (k3s with flux)](https://github.com/Pumba98/k3s-flux-cluster)
+### [Kubernetes GitOps Cluster (k3s with flux)]([https://github.com/Pumba98/k3s-flux-cluster](https://github.com/Pumba98/flux2-gitops))
 
 I'm running my Home-Kubernetes cluster using the GitOps tool Flux.  
 The Git repository is the driving the state of the cluster & everything is kept up to date by Renovate.
