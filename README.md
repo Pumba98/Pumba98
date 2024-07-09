@@ -13,15 +13,17 @@ I'm mostly known from the Hacks & Bots scene of the MMORPG NosTale, but at the m
 
 <img height="54" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/2000px-ISO_C%2B%2B_Logo.svg.png"> &nbsp;
 <img height="54" alt="C#" src="https://iconape.com/wp-content/png_logo_vector/csharp-logo.png">
+<img height="54" alt="Python" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png">
 <img height="35" alt="Go" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" style="margin-bottom: 10px">
 
 ## Frameworks/Tools:
 
 <img height="45" alt="Docker" src="https://cdn.iconscout.com/icon/free/png-512/docker-11-1175228.png"> &nbsp;
-<img height="45" alt="Kubernetes" src="https://kubernetes.io/images/favicon.png"> &nbsp;
-<img height="45" alt="Helm" src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png">
+<img height="45" alt="Kubernetes" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png"> &nbsp;
+<img height="45" alt="Helm" src="https://helm.sh/img/helm.svg">
 <img height="45" alt="Ansible" src="https://images.squarespace-cdn.com/content/v1/5caf4259c46f6d28739b09b0/1558616309157-QJE3179D6V6WYBNUR301/ke17ZwdGBToddI8pDm48kKXbTL5U8xV7KgHrzqU-XYBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHYShtqp9p317BEUKra4SA7joXG0jEu6ntXNgZ58T98lRur-lC0WofN0YB1wFg-ZW0/ansible_circleA_red.png"> &nbsp;
 <img height="45" alt="Terraform" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png">
+<img height="45" alt="Packer" src="https://www.packer.io/favicon.ico">
 <img height="45" alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2000px-Icons8_flat_linux.svg.png"> &nbsp;
 <img height="45" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/768px-Git_icon.svg.png"> &nbsp;
 
@@ -30,7 +32,6 @@ I'm mostly known from the Hacks & Bots scene of the MMORPG NosTale, but at the m
 <img height="45" alt="GitLab" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png"> &nbsp;
 <img height="45" alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"> &nbsp;
 <img height="45" alt="Azure" src="https://avatars2.githubusercontent.com/ml/1303?s=140&v=4"> &nbsp;
-<img height="45" alt="DroneCi" src="https://www.trion.de/news/2021/01/28/drone-pipeline-global-variable/drone-logo.png"> &nbsp;
 
 ## My Projects
 
